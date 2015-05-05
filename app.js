@@ -1,6 +1,5 @@
 alert("Welcome to Eric Peters' Prime Academy Resume")
 
-var main = function() {
  // open for image//
  var main = function() {
   $('.icon-menu').click(function() {
