@@ -4,6 +4,10 @@
 	color: #999;
 	
 }
+
+img{
+	float: right;
+}
 .my-info {
 	text-align: center;
 	display: block;
