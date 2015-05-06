@@ -23,5 +23,6 @@ alert("Welcome to Eric Peters' Prime Academy Resume")
     }, 200);
   });
 };
+var myWindow = window.open("", "", "width=200, height=100");
 
 $(document).ready(main);
