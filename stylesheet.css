@@ -10,11 +10,11 @@ img{
 	float: right;
 	height:	250px;
 	width: 250px;
-	padding-right: 200px;
+	padding-right: 100px;
 }
 .my-info {
 	text-align: center;
-	text-indent: right;
+	text-indent: 100px;
 	display: block;
 	color: #999
 }
