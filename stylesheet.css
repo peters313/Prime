@@ -13,6 +13,7 @@ img{
 }
 .my-info {
 	text-align: center;
+	text-indent: right;
 	display: block;
 	color: #999
 }
