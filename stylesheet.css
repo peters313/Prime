@@ -7,10 +7,8 @@
 
 img{
 	float: right;
-	float: top;
 	height:	250px;
 	width: 250px;
-	border-image: 1px, block;
 }
 .my-info {
 	text-align: center;
