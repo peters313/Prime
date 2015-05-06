@@ -6,9 +6,6 @@
 	
 }
 
-button{
-	
-}
 img{
 	float: right;
 	height:	250px;
@@ -16,6 +13,7 @@ img{
 	padding-right: 100px;
 }
 .my-info {
+	position: relative;
 	text-align: center;
 	text-indent: 100px;
 	display: block;
