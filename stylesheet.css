@@ -6,6 +6,9 @@
 	
 }
 
+button{
+	vertical-align: top;
+}
 img{
 	float: right;
 	height:	250px;
